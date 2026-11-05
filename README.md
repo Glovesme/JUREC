@@ -55,7 +55,6 @@ The conditional utility model estimates leader correctness and worker recall con
 - [Input/output contracts](docs/INTERFACES.md)
 - [Architecture and implementation details](docs/METHOD.md)
 - [Fitting, calibration, and reproducibility scope](docs/REPRODUCIBILITY.md)
-- [Code and data availability wording](docs/AVAILABILITY.md)
 
 ## Data availability
 

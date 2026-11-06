@@ -27,6 +27,4 @@ The industrial experiments reused selected upstream policies within an outer fit
 
 ## Reproducing the paper's numerical results
 
-The released core alone cannot reproduce the paper's tables. That requires the confidential cohort, matching fitting populations, HCR/PRR models and features, COVAL predictors and evidence banks, trained ensemble weights, calibrated policies, and the original evaluation protocol. Paper result tables and the underlying evaluation outputs are outside this core implementation release.
-
-All fitted parameters, local evidence banks, and per-record outputs produced on real data should stay in the user's controlled storage, outside a public clone.
+The released core alone cannot reproduce the paper's tables. That requires the confidential dataset, matching fitting populations, HCR/PRR models and features, COVAL predictors and evidence banks, trained ensemble weights, calibrated policies, and the original evaluation protocol. Paper result tables and the underlying evaluation outputs are outside this core implementation release.
